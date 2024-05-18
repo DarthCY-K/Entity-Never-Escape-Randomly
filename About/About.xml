@@ -3,7 +3,7 @@
 
 	<name>Entity Never Escape Randomly</name>
 	<author>DarthCY</author>
-	<packageId>DarthCY.Misc.KobeBryant</packageId>
+	<packageId>DarthCY.Misc.ENER</packageId>
 	<supportedVersions>
 		<li>1.5</li>
 	</supportedVersions>
@@ -17,5 +17,8 @@
 	<loadAfter>
 		<li>Ludeon.RimWorld.Anomaly</li>
 	</loadAfter>
+	<incompatibleWith>
+    	<li>DarthCY.LC.AnomalyLibrary</li>
+ 	</incompatibleWith>
 
 </ModMetaData>
